@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-ThinItalic-webfont.eot');
+    src: url('Roboto-ThinItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Roboto-ThinItalic-webfont.woff') format('woff'),
+         url('Roboto-ThinItalic-webfont.ttf') format('truetype'),
+         url('Roboto-ThinItalic-webfont.svg#RobotoThinItalic') format('svg');
+    font-weight: 200;
+    font-style: italic;
+}
+
+nav{
+    display: inline;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar{
+    display: inline;
+}
+
+.ty{
+background-color: aqua;
+border: 10px;
+color: aqua;
+}
+
+.yt{
+background-color: grey;
+border: 10px;
+}
+
+
