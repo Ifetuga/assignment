@@ -14,8 +14,11 @@ nav{
     font-family: 'Roboto', sans-serif;
 }
 
-.navbar{
+.navbar > li{
     display: inline;
+}
+.navbar > li a{
+    padding: 10px;
 }
 
 .ty{
@@ -27,6 +30,6 @@ color: aqua;
 .yt{
 background-color: grey;
 border: 10px;
-}
+} 
 
 
